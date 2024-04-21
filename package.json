@@ -1,7 +1,7 @@
 {
   "name": "proyectofinalunidad1",
   "version": "1.0.0",
-  "description": "**TITULO ENTREGA FINAL**: PSICOLOGÍA ONLINE\r **DESCRIPCIÓN**\r Dirigida a toda la población nacional para acceder a servicios de psicología online",
+  "description": "**TITULO ENTREGA FINAL**: PSICOLOMBIA\r **DESCRIPCIÓN**\r Dirigida a toda la población nacional para acceder a servicios de psicología online",
   "main": "app.js",
   "type": "module",
   "scripts": {
